@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="./img/Course.png" alt="DiD Course Logo" width="200" height="200">
+  <img src="./img/Course.png" alt="SEm Course Logo" width="200" height="200">
   <br>
-  Hevs DiD Course Documents
+  Hevs SEm Course Documents
   <br>
 </h1>
 
@@ -19,7 +19,7 @@ All documents for the students
   ```bash
   mkdir -p c:/work
   cd c:/work
-  git clone https://github.com/hei-synd-did/did-docs.git
+  git clone https://github.com/hei-synd-sem/sem-docs.git
   cd did-docs
   ```
 
@@ -29,8 +29,8 @@ All documents for the students
   # clone repo
   mkdir -p ~/work
   cd ~/work
-  git clone https://github.com/hei-synd-did/did-docs.git
-  cd did-docs
+  git clone https://github.com/hei-synd-sem/sem-docs.git
+  cd sem-docs
   ```
 
 ## Credits
@@ -40,7 +40,7 @@ All documents for the students
 
 ## Resources
 
-* HESSO DiD Course
+* HESSO SEm Course
 
 ---
 
